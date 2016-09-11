@@ -1,27 +1,93 @@
 *{
 	font-family: 'Roboto';
 }
+.verdefondo{
+	background-color: #04B45F;
+	color: white;
+}
+hr{
+	border: 1px solid #999;
+	width: 10%;
+}
+.caja{
+	height: 140px;
+	margin-bottom: 1%;
+}
 #c1{
-	background-color: blue;
+	background-color: #69d2e7;
 }
 #c2{
-	background-color: red;
+	background-color: #A7DBDB;
 }
 #c3{
-	background-color: yellow;
+	background-color: #E0E4CC;
 }
 #c4{
-	background-color: green;
+	background-color: #F3B630;
 }
 #c5{
-	background-color: orange;
+	background-color: #FA6900;
 }
+/*SEGUNDO RENGLON DE COLORES*/
+#c6{
+	background-color: #E94C6F;
+}
+#c7{
+	background-color: #542733;
+}
+#c8{
+	background-color: #5A6A62;
+}
+#c9{
+	background-color: #C6D5CD;
+}
+#c10{
+	background-color: #FDF200;
+}
+/*TERCER RENGLON DE COLORES*/
+#c11{
+	background-color: #DB3340;
+}
+#c12{
+	background-color: #E8B71A;
+}
+#c13{
+	background-color: #F7EAC8;
+}
+#c14{
+	background-color: #1FDA9A;
+}
+#c15{
+	background-color: #28ABE3;
+}
+/*CUARTO RENGLON DE COLORES*/
+#c16{
+	background-color: #DB3340;
+}
+#c17{
+	background-color: #E8B71A;
+}
+#c18{
+	background-color: #F7EAC8;
+}
+#c19{
+	background-color: #1FDA9A;
+}
+#c20{
+	background-color: #28ABE3;
+}
+
+
+
 .ico-gde{
 	width: 5em;
 	font-color: white;
 }
 #fondo{
 	background-image: url(../img/img-divider-img.jpg);
-	height:
+	height::;
 	background-repeat: repeat-y;
+}
+#mensaje{
+	color: orange;
 }
