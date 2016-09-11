@@ -33,11 +33,26 @@
 .pd-5 {
 	padding: 5%;
 }
+.pd-10 {
+	padding: 10%;
+}
+.pd-lr{
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 10%;
+}
+.pdt {
+	padding-right: 15%;
+	padding-top: 10%;
+}
 .pd-4 {
 	padding-top: 10%; 
 }
 .pd-5-10{
 	padding: 5% 10%;
+}
+.mg{
+	margin-top: 10%;
 }
 .mg-0{
 	margin: 0;
