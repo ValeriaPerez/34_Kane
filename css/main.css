@@ -2,6 +2,9 @@
 	font-family: 'Roboto';
 	margin: 0;
 }
+ul{
+	padding:2%;
+}
 .verdefondo{/*FONDO DE NAVEGADOR*/
 	background-color: #04B45F;
 	color: white;
@@ -118,17 +121,27 @@ hr{
 }
 .bg-doble{
 	background-image: url(../img/icon-bg.png);
-	background-size: 100%
+	background-size: 50%
 	background-repeat: no-repeat;
 }
 .hr{
 	border: solid 1px white;
 }
+.boton{
+	background: black;
+	padding: 2%;
+	border-style: none;
+}
+.form{
+	border-radius: 2px;
+	margin: 1%;
+
+}
 /*FOOTER*/
 #fondo{/*FONDO DE ICONOS REDES SOCIALES*/
 	background-image: url(../img/img-divider-img.jpg);
-	height::;
-	background-repeat: repeat-y;
+	height:350px;
+	background-size: 100%;
 }/*INPUT CON MENSJAE*/
 #mensaje{
 	color: orange;

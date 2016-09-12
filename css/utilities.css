@@ -36,10 +36,21 @@
 .pd-10 {
 	padding: 10%;
 }
+.pd-15 {
+	padding: 15%;
+}
 .pd-lr{
 	padding-left: 10%;
 	padding-right: 10%;
 	padding-bottom: 10%;
+}
+.pd-f{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.p{
+	padding-left: 15%;
+	padding-right: 15%;
 }
 .pdt {
 	padding-right: 15%;
@@ -53,6 +64,9 @@
 }
 .mg{
 	margin-top: 10%;
+}
+.mg5{
+	margin-top: 5%;
 }
 .mg-0{
 	margin: 0;
@@ -90,11 +104,14 @@
 .bg-gray{
 	background-color: #F2F2F2;
 }
-.bg-green{
-	background-color: #5E8039;
+.bg-orange{
+	background-color: orange;
 }
 .bg-black{
 	background-color: #4D4D4D;
+}
+.bg-white{
+	background-color: white;
 }
 .text-gray{
 	color:#F2F2F2;
@@ -102,8 +119,8 @@
 .text-black{
 	color: #4D4D4D;
 }
-.text-green{
-	color: #5E8039;
+.text-orange{
+	color: orange;
 }
 .text-white{
 	color:#fff;
