@@ -170,7 +170,7 @@ hr{
 }
 
 /*MEDIA*/
-@media screen and (max-width: 535px) and (max-height: 824px) {
+@media screen and (max-width: 535px) and (max-height: 536px) {
 	header .col-xs-12 h1{ 
 	font-size: 3em; 
 	}
